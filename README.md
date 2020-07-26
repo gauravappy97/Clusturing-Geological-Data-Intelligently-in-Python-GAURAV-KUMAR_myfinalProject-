@@ -1,4 +1,4 @@
-# Clusturing-Geological-Data-Intelligently-in-Python-GAURAV-KUMAR_myfinalProject-
+# Clusturing-Geological-Data-Intelligently-in-Python
 <h4>In this project, I worked on the following things: </h4><br>
 <ul>
   <li>
